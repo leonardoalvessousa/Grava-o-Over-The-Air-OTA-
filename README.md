@@ -1,1 +1,1 @@
-![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/AVR_WDT/refs/heads/main/AVR_BANNER.jpg)
+![Banner](https://raw.githubusercontent.com/leonardoalvessousa/Grava-o-Over-The-Air-OTA-/refs/heads/main/bannerOTA.jpg)
