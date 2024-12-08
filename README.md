@@ -334,7 +334,7 @@ void loop()
 > [!CAUTION]
 > Não esqueça de incluir a função `ArduinoOTA.handle()` no fim de seus projetos. 
 
-## ## 😼 Autor
+## 😼 Autor
 
 🐈‍⬛ @leonardoalvessousa
 
